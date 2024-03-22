@@ -1,0 +1,8 @@
+{
+  "label": "CloudTrail Queries",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "CloudTrail community searches within Loggernaut."
+  }
+}

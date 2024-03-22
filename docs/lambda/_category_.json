@@ -1,0 +1,8 @@
+{
+  "label": "Lambda Queries",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "Checkout the available community searches within Loggernaut."
+  }
+}
